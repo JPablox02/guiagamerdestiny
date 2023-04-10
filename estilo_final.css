@@ -1,0 +1,41 @@
+.rounded-circle{
+	width: 100px;
+}
+
+footer{
+	background-color: black;
+
+}
+
+.letra_final{
+	color: white;
+}
+
+.enlaces{
+	color:white;
+	padding: 30px;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: arial;
+}
+
+.coll1{
+	width: 200px;
+}
+
+.tite{
+	text-align: center;
+}
+
+.d2logo{
+	width: 100%;
+	height: 500px;
+}
+
+.requi{
+	text-align: center;
+}
+.trabajo{
+	margin: 5px;
+}
+
